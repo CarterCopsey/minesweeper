@@ -1,2 +1,4 @@
-# minesweeper
-Minesweeper final project for java programming class. August to December 2022
+# Minesweeper Java Final | August to December 2022
+
+Recreation of minesweeper.
+Download all files and open the JAR executable to use.
